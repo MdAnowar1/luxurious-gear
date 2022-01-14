@@ -1,0 +1,18 @@
+body{
+     margin: 0;
+     padding: 0;
+}
+.common{
+     display: flex;
+     width: 80%;
+     margin: 0 auto;
+}
+.photo img{
+     width: 300px;
+}
+.designed{
+     border-radius: 5px;
+     padding: 10px 30px;
+     background-image: linear-gradient(salmon,khaki);
+     color: white;
+}
