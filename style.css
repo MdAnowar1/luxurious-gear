@@ -17,7 +17,8 @@ body{
      border-radius: 5px solid blue;
      color: white;
      padding: 10px 30px;
-     background-image: linear-gradient(salmon,khaki);
+     font-size: 15px;
+     background-image: linear-gradient(#FFC014,#AEAEAE);
 }
 .move{
 margin-left: 135px;
@@ -57,4 +58,20 @@ font-size: 30px;
      text-align: center;
      font-size: 40px;
      margin-top: 50px;
+}
+.try-task{
+     margin-top: 100px;
+     margin-left: 100px;
+     margin-right: 100px;
+     display: flex;
+}
+.right-position{
+     margin-left: 200px;
+}
+.button{
+     border-radius: 5px solid blue;
+     color: white;
+     font-size: 15px;
+     padding: 10px 30px;
+     background-image: linear-gradient(#FFC014,#AEAEAE);
 }
