@@ -75,3 +75,8 @@ font-size: 30px;
      padding: 10px 30px;
      background-image: linear-gradient(#FFC014,#AEAEAE);
 }
+.footer{
+     color: white;
+     background-color: black;
+     text-align: center;
+}
